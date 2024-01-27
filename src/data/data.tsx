@@ -414,26 +414,26 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch.',
-  description: 'Here is a good spot for a message to your readers to let them know how best to reach out to you.',
+  description: 'Please feel free to email me~',
   items: [
     {
       type: ContactType.Email,
-      text: 'reachout@timbaker.me',
+      text: 'mayaaa@umich.edu',
       href: 'mailto:mayaaa@umich.edu',
     },
-    {
-      type: ContactType.Location,
-      text: 'Ann Arbor, Michigan',
-      href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
-    },
-    {
-      type: ContactType.Instagram,
-      text: '@tbakerx',
-      href: 'https://www.instagram.com/tbakerx/',
-    },
+    // {
+    //   type: ContactType.Location,
+    //   text: 'Ann Arbor, Michigan',
+    //   href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
+    // },
+    // {
+    //   type: ContactType.Instagram,
+    //   text: '@tbakerx',
+    //   href: 'https://www.instagram.com/tbakerx/',
+    // },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
+      text: 'mayaaa311',
       href: 'https://github.com/Mayaaa311',
     },
   ],
